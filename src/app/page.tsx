@@ -29,7 +29,7 @@ export default function HomePage() {
         See the repository &gt;
       </a>
 
-      <p >Install </p>
+      <Button variant="outline" ><a href="https://github.com/AnshAjayMishra/NextJs-Boiler" className="hover:text-zinc-500">Install</a> </Button>
 
       {/* Toggle Switch for Light/Dark Mode */}
       <div className="flex items-center gap-4 py-3">
