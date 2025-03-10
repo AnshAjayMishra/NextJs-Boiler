@@ -39,14 +39,9 @@ export default function ComponentsPage() {
 
       {/* Links */}
       <div className="mt-6">
-        <h2 className="text-lg font-semibold">Links</h2>
-        <div className="flex gap-4 mt-2">
-          <Link href="#" className="text-blue-500 hover:underline">
-            Internal Link
-          </Link>
-          <a href="#" className="text-blue-500 hover:underline">
-            Outside Link
-          </a>
+        
+        <div className="flex items-center justify-center gap-4 mt-2">
+         <h1 className="text-3xl font-bold"> Coming Soon!</h1>
         </div>
       </div>
     </div>
