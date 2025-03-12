@@ -4,7 +4,7 @@
 
 ## Features
 
-- ⚡ **Next.js 14** - The latest version for optimal performance.
+- ⚡ **Next.js 15.2** - The latest version for optimal performance.
 - 🎨 **Tailwind CSS** - For fast and efficient styling.
 - 🌙 **Dark Mode Toggle** - Built-in theme switcher using `next-themes`.
 - 🏗 **ShadCN UI Components** - Pre-built and customizable UI components.
