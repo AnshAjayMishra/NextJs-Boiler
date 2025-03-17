@@ -1,7 +1,6 @@
 import React from "react";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
-import { Text } from "lucide-react";
 import { Variable } from "lucide-react";
 
 function notfound() {
