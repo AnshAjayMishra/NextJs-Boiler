@@ -9,7 +9,9 @@
 - 🌙 **Dark Mode Toggle** - Built-in theme switcher using `next-themes`.
 - 🏗 **ShadCN UI Components** - Pre-built and customizable UI components.
 - 🔗 **Absolute Imports** - Clean and maintainable project structure.
-- ✅ **TypeScript Support** - Ensuring type safety and better development experience.
+- ✅ **TypeScript Support** - Ensuring type safety and better development 
+experience.
+- 🚫 **Custom 404 Page** - A beautifully designed error page for better UX.
 
 ---
 
